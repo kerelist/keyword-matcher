@@ -1,5 +1,5 @@
 # keyword-matcher
-Match keywords in a job posting to those in a word bank to suggest vocab enhancements your cover letter/resume.
+Match keywords in a job posting to those in a word bank to suggest vocabulary enhancements your cover letter or resume.
 
 Beat the automated application machine! 
 Many job openings with a high number of applicants will use an automated 
